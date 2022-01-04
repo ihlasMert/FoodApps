@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>Name</key>
+		<string>Coffee</string>
+		<key>Image</key>
+		<string>Coffe</string>
+		<key>Des</key>
+		<string>Coffee is also used to prevent Parkinson&apos;s disease, gallstones, type 2 diabetes, gastrointestinal cancer, lung cancer, and breast cancer. Other uses include treatment of headache, low blood pressure, obesity, and attention deficit-hyperactivity disorder (ADHD). Rectally, coffee is used as an enema to treat cancer.</string>
+	</dict>
+	<key>New item</key>
+	<dict>
+		<key>Name</key>
+		<string>Espresso</string>
+		<key>Image</key>
+		<string>espresso</string>
+		<key>Des</key>
+		<string>coffee made by forcing steam through crushed coffee beans and served without milk, or a small cup filled with this coffee</string>
+	</dict>
+	<key>New item - 3</key>
+	<dict>
+		<key>Name</key>
+		<string>french</string>
+		<key>Image</key>
+		<string>french</string>
+		<key>Des</key>
+		<string>You can never go wrong with potatoes as a side dish, whether it’s baked potato wedges, garlic mashed potatoes or these classic french fries. Pair your fries with a burger, or serve them with steak, and watch the rave reviews come in!</string>
+	</dict>
+	<key>New item - 4</key>
+	<dict>
+		<key>Name</key>
+		<string>Honey</string>
+		<key>Image</key>
+		<string>honey</string>
+		<key>Des</key>
+		<string>The phytonutrients in honey are responsible for its antioxidant properties, as well as its antibacterial and antifungal power. They&apos;re also thought to be the reason raw honey has shown immune-boosting and anticancer benefits. Heavy processing destroys these valuable nutrients.</string>
+	</dict>
+	<key>New item - 6</key>
+	<dict>
+		<key>Name</key>
+		<string>Strawberry</string>
+		<key>Image</key>
+		<string>strawberry</string>
+		<key>Des</key>
+		<string>a small juicy red fruit that has small brown seeds on its surface, or the plant with white flowers on which this fruit grows.</string>
+	</dict>
+	<key>New item - 5</key>
+	<dict>
+		<key>Name</key>
+		<string>Sugar</string>
+		<key>Image</key>
+		<string>sugar</string>
+		<key>Des</key>
+		<string>a sweet substance especially from the plants sugar cane and sugar beet, used to make food and drinks sweet</string>
+	</dict>
+</dict>
+</plist>
