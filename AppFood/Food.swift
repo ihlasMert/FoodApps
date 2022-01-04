@@ -7,7 +7,7 @@
 
 import UIKit
 
-class Food: NSObject {
+class Food {
     var name: String?
     var des: String?
     var image: String?

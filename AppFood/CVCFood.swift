@@ -14,7 +14,7 @@ class CVCFood: UICollectionViewCell {// coccatach
     
     
     func setFood(food:Food){
-        FoodImage.image = UIImage(named: food.name!)
+        FoodImage.image = UIImage(named: food.image!)
         FoodName.text = food.name!
     }
     
